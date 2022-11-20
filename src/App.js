@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          The Grand Master <code>src/App.js</code> is taking over. Bye.
+          The Grand Master <code>src/App.js</code> is taking over. New features coming right up. 
         </p>
         <a
           className="App-link"
